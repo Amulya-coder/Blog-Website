@@ -1,2 +1,2 @@
-#Udacity-1
+#Udacit
 personal blog project
